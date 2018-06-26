@@ -107,5 +107,5 @@ venv.bak/
 .DS_Store
 
 # idea
-www/.idea
-.idea/*
+*/.idea/*
+
